@@ -1,0 +1,16 @@
+Trivia
+How many states are in the US?:C
+36
+69
+50
+40
+How many days are in a leap year:B
+365
+366
+360
+340
+What was the first animal on the moon?:A
+A dog
+A cat
+A bird
+A monkey

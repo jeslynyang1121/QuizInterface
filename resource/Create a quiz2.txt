@@ -1,0 +1,16 @@
+Math
+What is 2 + 2?:C
+2
+3
+4
+5
+what is 6 % 3:A
+0
+1
+2
+3
+what is 18/0:A
+Undefined
+18
+0
+Infinity
